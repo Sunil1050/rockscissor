@@ -1,0 +1,13 @@
+.button-item {
+  width: 50%;
+  height: 50%;
+}
+.button {
+  background: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.button-icon {
+  width: 100%;
+  height: 100%;
+}

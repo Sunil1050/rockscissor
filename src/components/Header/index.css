@@ -1,0 +1,36 @@
+.header-container {
+  border: 3px solid #ffffff;
+  border-radius: 12px;
+  padding: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.header-heading {
+  color: #ffffff;
+  font-size: 22px;
+  width: 100px;
+}
+.score-box {
+  border-radius: 8px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  line-height: 20px;
+}
+.score-text {
+  color: #000000;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: Roboto;
+}
+.score {
+  color: #000000;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: Roboto;
+}
